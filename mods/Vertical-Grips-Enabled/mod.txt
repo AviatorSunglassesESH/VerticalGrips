@@ -1,0 +1,10 @@
+{
+	"name" : "Vertical grips",
+	"description" : "Re-enables vertical grips",
+	"author" : "AviatorSunglasses",
+	"contact" : "iunno",
+	"version" : "1",
+	"hooks" : [
+		{ "hook_id" : "lib/tweak_data/weaponfactorytweakdata", "script_path" : "vertgrips.lua" }
+	]
+}
